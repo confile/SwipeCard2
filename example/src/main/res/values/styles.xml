@@ -1,0 +1,19 @@
+<resources>
+ 
+
+    <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
+
+        <item name="colorPrimary">@color/headerBackgroundColor</item>
+        <item name="colorPrimaryDark">@color/headerBackgroundDarkColor</item>
+        <!-- Customize your theme here. -->
+
+		<item name="android:windowContentTransitions">true</item>
+    </style>
+
+    <style name="SwipeFling">
+        <item name="rotation_degrees">15</item>
+        <item name="min_adapter_stack">6</item>
+        <item name="max_visible">4</item>
+    </style>
+
+</resources>

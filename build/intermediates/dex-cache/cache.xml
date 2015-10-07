@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/mg/.gradle/caches/modules-2/files-2.1/org.jsoup/jsoup/1.8.3/65fd012581ded67bc20945d85c32b4598c3a9cf1/jsoup-1.8.3.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="65fd012581ded67bc20945d85c32b4598c3a9cf1">
+        <dex dex="/Users/mg/Documents/Android/Android-Studio/MyDemos/Swipecards2/example/build/intermediates/pre-dexed/debug/jsoup-1.8.3-2b7f2061c58b1a337c87e03be4971771b3e55932.jar" />
+    </item>
+    <item
+        jar="/Users/mg/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.0.1/support-annotations-23.0.1.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="1fce89a6428c51467090d7f424e4c9c3dbd55f7e">
+        <dex dex="/Users/mg/Documents/Android/Android-Studio/MyDemos/Swipecards2/example/build/intermediates/pre-dexed/debug/support-annotations-23.0.1-04a6a5e8db63617ed1f0c0760d39ddb97eed5c1a.jar" />
+    </item>
+    <item
+        jar="/Users/mg/.gradle/caches/modules-2/files-2.1/com.nineoldandroids/library/2.4.0/e9b63380f3a242dbdbf103a2355ad7e43bad17cb/library-2.4.0.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="e9b63380f3a242dbdbf103a2355ad7e43bad17cb">
+        <dex dex="/Users/mg/Documents/Android/Android-Studio/MyDemos/Swipecards2/example/build/intermediates/pre-dexed/debug/library-2.4.0-eb92b59c2c906f2e832b56d61dd07ad4df00c5ba.jar" />
+    </item>
+    <item
+        jar="/Users/mg/Documents/Android/Android-Studio/MyDemos/Swipecards2/example/build/intermediates/exploded-aar/com.amulyakhare/com.amulyakhare.textdrawable/1.0.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="d237556caead5b93d97e18a071059a2c0045978e">
+        <dex dex="/Users/mg/Documents/Android/Android-Studio/MyDemos/Swipecards2/example/build/intermediates/pre-dexed/debug/classes-b13a0ab551372182bcb0bf70f1fad82a22ca3990.jar" />
+    </item>
+    <item
+        jar="/Users/mg/Documents/Android/Android-Studio/MyDemos/Swipecards2/example/build/intermediates/exploded-aar/com.android.support/design/23.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="8a5238e4bdcd6568b82db669d41817de670586b8">
+        <dex dex="/Users/mg/Documents/Android/Android-Studio/MyDemos/Swipecards2/example/build/intermediates/pre-dexed/debug/classes-465e974ecc863be4b7b9bec17e5a4725f2030afd.jar" />
+    </item>
+    <item
+        jar="/Users/mg/Documents/Android/Android-Studio/MyDemos/Swipecards2/example/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
+        <dex dex="/Users/mg/Documents/Android/Android-Studio/MyDemos/Swipecards2/example/build/intermediates/pre-dexed/debug/classes-0f087976212e84d45b953d920f638f4db0f9578c.jar" />
+    </item>
+    <item
+        jar="/Users/mg/.gradle/caches/modules-2/files-2.1/com.jakewharton/butterknife/7.0.1/d5d13ea991eab0252e3710e5df3d6a9d4b21d461/butterknife-7.0.1.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="d5d13ea991eab0252e3710e5df3d6a9d4b21d461">
+        <dex dex="/Users/mg/Documents/Android/Android-Studio/MyDemos/Swipecards2/example/build/intermediates/pre-dexed/debug/butterknife-7.0.1-2245693f56b5cc5053d28dd54d7e8338ef999fdb.jar" />
+    </item>
+    <item
+        jar="/Users/mg/.gradle/caches/modules-2/files-2.1/com.squareup.picasso/picasso/2.5.2/7446d06ec8d4f7ffcc53f1da37c95f200dcb9387/picasso-2.5.2.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="7446d06ec8d4f7ffcc53f1da37c95f200dcb9387">
+        <dex dex="/Users/mg/Documents/Android/Android-Studio/MyDemos/Swipecards2/example/build/intermediates/pre-dexed/debug/picasso-2.5.2-b964fe9602544d0380c0b7c3941a9fdbb0292266.jar" />
+    </item>
+    <item
+        jar="/Users/mg/Documents/Android/Android-Studio/MyDemos/Swipecards2/example/build/intermediates/exploded-aar/com.makeramen/roundedimageview/2.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="149d269764e1ad8d24e18e8cb71cd6b95062f3d1">
+        <dex dex="/Users/mg/Documents/Android/Android-Studio/MyDemos/Swipecards2/example/build/intermediates/pre-dexed/debug/classes-515960ef6bec2b9b77b0fa001228b4ab73e91486.jar" />
+    </item>
+    <item
+        jar="/Users/mg/Documents/Android/Android-Studio/MyDemos/Swipecards2/example/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/jars/libs/internal_impl-23.0.1.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="aa92916125166649d8ad4ba3940c3dd7515596d3">
+        <dex dex="/Users/mg/Documents/Android/Android-Studio/MyDemos/Swipecards2/example/build/intermediates/pre-dexed/debug/internal_impl-23.0.1-163a7736ec23b8e43857c0bef210daf069471bca.jar" />
+    </item>
+    <item
+        jar="/Users/mg/Documents/Android/Android-Studio/MyDemos/Swipecards2/example/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="c31e21b53ff2f74664e498248d01453a32e32d48">
+        <dex dex="/Users/mg/Documents/Android/Android-Studio/MyDemos/Swipecards2/example/build/intermediates/pre-dexed/debug/classes-d714023d90e3fddaf9d39ad210e512cb40b01292.jar" />
+    </item>
+    <item
+        jar="/Users/mg/Documents/Android/Android-Studio/MyDemos/Swipecards2/example/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="40e7757d9b06db670062ddb3cf5b30c129b2fd8c">
+        <dex dex="/Users/mg/Documents/Android/Android-Studio/MyDemos/Swipecards2/example/build/intermediates/pre-dexed/debug/classes-ae7a61621042ebb189a49ba78aedc699babdd546.jar" />
+    </item>
+    <item
+        jar="/Users/mg/.gradle/caches/modules-2/files-2.1/com.jakewharton/butterknife/7.0.1/d5d13ea991eab0252e3710e5df3d6a9d4b21d461/butterknife-7.0.1.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="d5d13ea991eab0252e3710e5df3d6a9d4b21d461">
+        <dex dex="/Users/mg/Documents/Android/Android-Studio/MyDemos/Swipecards2/example/build/intermediates/pre-dexed/debug/butterknife-7.0.1-2245693f56b5cc5053d28dd54d7e8338ef999fdb.jar" />
+    </item>
+    <item
+        jar="/Users/mg/Documents/Android/Android-Studio/MyDemos/Swipecards2/example/build/intermediates/exploded-aar/com.daimajia.slider/library/1.1.5/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="08962e03b6a954c65d4944e092879b7f5ee1208d">
+        <dex dex="/Users/mg/Documents/Android/Android-Studio/MyDemos/Swipecards2/example/build/intermediates/pre-dexed/debug/classes-715a3174b70a3512748183ddb13643d76d1cf336.jar" />
+    </item>
+    <item
+        jar="/Users/mg/Documents/Android/Android-Studio/MyDemos/Swipecards2/example/build/intermediates/exploded-aar/com.makeramen/roundedimageview/2.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="149d269764e1ad8d24e18e8cb71cd6b95062f3d1">
+        <dex dex="/Users/mg/Documents/Android/Android-Studio/MyDemos/Swipecards2/example/build/intermediates/pre-dexed/debug/classes-515960ef6bec2b9b77b0fa001228b4ab73e91486.jar" />
+    </item>
+    <item
+        jar="/Users/mg/Documents/Android/Android-Studio/MyDemos/Swipecards2/example/build/intermediates/exploded-aar/com.android.support/cardview-v7/23.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="1ccbc26be2c465c622a48310e8092241b01abe80">
+        <dex dex="/Users/mg/Documents/Android/Android-Studio/MyDemos/Swipecards2/example/build/intermediates/pre-dexed/debug/classes-4d064a04dfe40247583d690dfa2db15ba68abd99.jar" />
+    </item>
+    <item
+        jar="/Users/mg/.gradle/caches/modules-2/files-2.1/com.squareup.picasso/picasso/2.5.2/7446d06ec8d4f7ffcc53f1da37c95f200dcb9387/picasso-2.5.2.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="7446d06ec8d4f7ffcc53f1da37c95f200dcb9387">
+        <dex dex="/Users/mg/Documents/Android/Android-Studio/MyDemos/Swipecards2/example/build/intermediates/pre-dexed/debug/picasso-2.5.2-b964fe9602544d0380c0b7c3941a9fdbb0292266.jar" />
+    </item>
+    <item
+        jar="/Users/mg/Documents/Android/Android-Studio/MyDemos/Swipecards2/example/build/intermediates/exploded-aar/com.github.ozodrukh/CircularReveal/1.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="f10715b7f3bcf7c369b5020c8fd0e57145f2d404">
+        <dex dex="/Users/mg/Documents/Android/Android-Studio/MyDemos/Swipecards2/example/build/intermediates/pre-dexed/debug/classes-85b0f6b41ffd3fffa33205b92e01fea585988ce9.jar" />
+    </item>
+    <item
+        jar="/Users/mg/Documents/Android/Android-Studio/MyDemos/Swipecards2/example/build/intermediates/exploded-aar/com.android.support/palette-v7/23.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="15b669fd484d82539a354ccd1f2a08737474e95e">
+        <dex dex="/Users/mg/Documents/Android/Android-Studio/MyDemos/Swipecards2/example/build/intermediates/pre-dexed/debug/classes-e578057cd51a4c9623396db5752b444eb92f4f9f.jar" />
+    </item>
+
+</items>

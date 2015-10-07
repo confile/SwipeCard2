@@ -1,0 +1,147 @@
+html, body, div, span, applet, object, iframe,
+h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+a, abbr, acronym, address, big, cite, code,
+del, dfn, em, img, ins, kbd, q, s, samp,
+small, strike, strong, sub, sup, tt, var,
+b, u, i, center,
+dl, dt, dd, ol, ul, li,
+fieldset, form, label, legend,
+table, caption, tbody, tfoot, thead, tr, th, td,
+article, aside, canvas, details, embed,
+figure, figcaption, footer, header, hgroup,
+menu, nav, output, ruby, section, summary,
+time, mark, audio, video {
+  margin: 0;
+  padding: 0;
+  border: 0;
+  font-size: 100%;
+  font: inherit;
+  vertical-align: baseline;
+}
+/* HTML5 display-role reset for older browsers */
+article, aside, details, figcaption, figure,
+footer, header, hgroup, menu, nav, section {
+  display: block;
+}
+body {
+  line-height: 1;
+}
+ol, ul {
+  list-style: none;
+}
+blockquote, q {
+  quotes: none;
+}
+blockquote:before, blockquote:after,
+q:before, q:after {
+  content: '';
+  content: none;
+}
+table {
+  border-collapse: collapse;
+  border-spacing: 0;
+}
+
+/* ========== */
+/* custom css */
+/* ========== */
+
+
+body {
+  margin: 0;
+  padding: 0;
+  
+/*  font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif;*/
+/*  font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif !important;*/
+/*  font-family: "HelveticaNeue-Light", sans-serif !important;*/
+  font-family: "Myriad Set Pro","Lucida Grande","Helvetica Neue","Helvetica","Arial","Verdana","sans-serif";
+  font-style: normal;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+  font-size: 11pt;
+  line-height: 1.1;
+  color: #000;
+  font-weight: 300;
+}
+
+h1, h2, h3, h4, h5 {
+  color: #2f2f2f;
+}
+
+h1 {
+  font-size: 17pt;
+  font-weight: 700;
+  line-height: 17pt;
+  margin-bottom: 14pt;
+}
+
+h2 {
+  font-size: 11pt;
+  font-weight: 700;
+  line-height: 15pt;
+  margin-bottom: 14pt;
+}
+
+a {
+  color: #b5882e;
+  text-decoration: none;
+  text-decoration: underline;
+}
+
+b {
+  font-weight: bold;
+}
+
+em, i {
+  font-style: italic;
+  line-height: inherit;
+}
+
+p {
+  padding-left: 5pt;
+  margin-bottom: 26pt;
+/*  margin-bottom: 40pt;*/
+}
+
+ul {
+  list-style-type: disc;
+  list-style-position: inside;
+  margin-left: 1pt;
+}
+
+ol {
+  list-style-type: decimal;
+  list-style-position: inside;
+}
+
+
+/* wysihtml5 style */
+
+.wysihtml5-command-active {
+	background-color: #ccc;
+}
+
+.wysihtml5-action-active {
+	background-color: #ed2121;
+}
+
+[class^="wysiwyg-text-align"] {
+    line-height: 1em;
+}
+
+.wysiwyg-text-align-right {
+    text-align: right;
+}
+
+.wysiwyg-text-align-center {
+    text-align: center;
+}
+
+.wysiwyg-text-align-left {
+    text-align: left;
+}
+.wysiwyg-text-align-justify {
+    text-align: justify;
+}
+
+/* wysihtml5 style end */
